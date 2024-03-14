@@ -78,6 +78,25 @@ Para añadir una imagen, hemos de dar una descripción y el nombre de la imagen 
 La sintaxis es: exclamación seguido de una descripcion dentro de las llaves anguladas, seguido de el nombre de la imagen entre paréntesis (sin espacios entre exclamación, llaves anguladas y parentesis).
 
 
-### eNLACES
+### Enlaces
 
 Los enlaces son parecidos a las imágenes, la diferencia es que no llevan exclamación delante y se pueden introducir dentro de frases [como esta](https://enti.cat).
+
+### Bloques de cita
+
+Los bloques de cita nos ayudan a destacar el código o frases de manera especial.
+
+> Esto es una cita.
+
+Para la cita, se utiliza el símbolo mayor que seguido dr un espacio.
+
+> Esto es una cita
+> Con múltiples **lineas**
+> > Esto es una cita dentro de otra.
+
+
+
+
+
+
+
