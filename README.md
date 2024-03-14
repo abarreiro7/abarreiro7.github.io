@@ -69,5 +69,11 @@ Las listas anidadas son listas dentro de listas
 
 Para meter una lista dentro de otra, utilizaremos la stabulaciones.
 
+### Imágenes
 
+Para añadir una imagen, hemos de dar una descripción y el nombre de la imagen (con la ruta, si hiciera falta).
+
+![Meme de chems 2023 vs 2024] (melly.jpg)
+
+La sintaxis es: exclamación seguido de una descripcion dentro de las llaves anguladas, seguido de el nombre de la imagen entre paréntesis (sin espacios entre exclamación, llaves anguladas y parentesis).
 
