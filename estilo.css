@@ -1,0 +1,102 @@
+		
+	
+body{
+	background-color:#008000;
+	color:905609;
+	margin:0;
+}
+
+header{
+	background-color:#e0e0eb;
+	border-bottom:4px solid #000000;
+}
+
+header nav a{
+	/* a es para los mensajes con enlaces */
+	display:block;
+	color:#ffffff;
+	background-color:#666666;
+	text-decoration:none; /* para quitar el subrallado del enlace */
+	padding:8px;
+}
+
+header nav  a:hover{
+	/*hover: (hand over) Pseudo-selector "para gestionar el color del enlace al pasar por encima */
+	background-color:#000000;
+	text-decoration:underline; 
+}
+
+h1{
+	margin:0;
+	font-family: 'Workbench', sans-serif;
+}
+
+a{
+	color:pink;
+}
+
+header nav ul{
+	display:flex;
+	justify-content:space-around;
+	list-style:none;
+	padding:0;
+	margin:0;
+}
+header nav li{
+	flex-grow:1;
+	text-align:center;
+}
+
+footer{
+	background-color:grey;
+	text-align:center;
+	border-top:4px solid #000000;
+}
+
+footer p{
+	margin:0;
+	padding: 32px 0 32px 0;
+}
+
+img {
+        width: 300px; 
+        height: auto; 
+        border: 4px solid black; 
+        margin: 10px;
+		
+	}
+
+#gallery{
+	display:flex;
+	margin:0;
+	padding:0;
+	}
+	
+
+.gallery_item{
+	border: 1px solid pink:
+	}
+
+	.gallery_item img {
+		width: 300px;
+		height: 300px;
+	}
+
+input.error {
+	border-color: red;
+}
+
+input.valid {
+	border-color: green;
+}
+
+.error {
+	color: red;
+}
+
+	/**p{
+	background-color:red;
+	width:128px;
+	padding: 32px;
+	margin:32px;
+}**/

@@ -1,0 +1,90 @@
+
+body {
+    background-color:pink;
+	background-image:url('fondo.jpg');
+    background-size:cover;
+	background-repeat: repeat;
+    
+}
+header{
+	background-color:#E99186;
+	border-bottom:4px solid #000000;
+}
+
+header nav h1{
+	color:#E99186;
+}
+
+header nav a{
+	display:block;
+	color:#FDC2F5;
+	background-color:#677864;
+	text-decoration:none; 
+	padding:8px;
+}
+header nav ul{
+	list-style:none;
+}
+
+header nav  a:hover{
+	background-color:#000000;
+	text-decoration:underline; 
+}
+
+
+h1, h2, h3 {
+    color:red;
+    text-align:center;
+    text-shadow:2px 2px 4px #ff00ff;
+	font-size: 50px;
+}
+
+p {
+    font-size:20px;
+    color:magenta !important;
+    text-align:justify;
+}7
+
+a {
+    color:hotpink ;
+    text-decoration: underline;
+}
+
+img {
+    border:5px solid red;
+    border-radius:50%;
+	width: 250px;
+    height: 250px;
+    background-size:cover; 
+    clip-path: polygon(50% 0%, 0% 100%, 100% 100%); 
+}
+
+button {
+    background-color:red;
+    color: white;
+    padding:10px 20px;
+    border-radius:5px;
+    cursor:pointer;
+    text-transform:uppercase;
+    font-weight:bold;
+    box-shadow:2px 2px 4px #ff00ff;
+}
+
+footer{
+	background-color:#D12B00;
+	text-align:center;
+	border-top:4px solid #000000;
+}
+
+footer p{
+	margin:0;
+	padding: 32px 0 32px 0;
+}
+
+
+.amor {
+    color:red;
+    font-size:24px;
+    text-transform:uppercase;
+    font-weight:bold;
+}**/
